@@ -1,4 +1,3 @@
-
 select * from DIM_ALIMENTO;
 
 ---[DB].[schema].[tabla]
